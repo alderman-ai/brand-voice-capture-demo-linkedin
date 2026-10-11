@@ -1,4 +1,4 @@
-# Capture your brand voice and put it into your content workflows
+# Capture and insert your brand voice into your content workflows
 
 **The working files from getting AI to write in one person's voice and grade
 its own drafts until they only need last-mile edits.** Early and unpolished,

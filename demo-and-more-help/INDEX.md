@@ -10,6 +10,8 @@ files don't answer on their own.
 | `how-this-was-made/` | they picked line 2, or are technical and ask how the rubric was induced, validated or versioned | `INDEX.md` (the build story in ten sentences + the page list) and seven one-screen pages: `the-four-files.md`, `inducing-v1.md`, `the-best-of-n-pass.md`, `one-core-two-views.md`, `feedback-notation.md`, `provenance-and-honesty.md`, `timeline.md` |
 
 `README.md` here is the same routing written for a person. Every fact in
-these pages traces to a file in this repo or to `git log`, except where a
+these pages traces to a file in this repo or to git history (the timeline
+page in `how-this-was-made/` says which history each date comes from),
+except where a
 page says it comes from Alex's LinkedIn messages (his background, in the
 FAQ).

@@ -25,7 +25,8 @@ executable.
 
 ## The names
 
-The files were renamed on upload (from `git log`, 2026-08-28):
+The files were renamed on upload, on 2026-08-28 (from the git history of the
+original repo, https://github.com/alderman-ai/subjective-taste-capture-demo):
 
 - `Global LinkedIn Grading Context.md` → `starting-domain-expertise-from-operator.md`
 - `BoN-pass3-critiques.md` → `refinement-vector-1-critiques.md`

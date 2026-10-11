@@ -46,9 +46,10 @@ number.
    are written so an agent can parse them, and the hook-as-thesis finding.
 6. [Provenance and honesty rules](provenance-and-honesty.md) -- the archive
    chain, third-party protection, and the forbidden inferences.
-7. [Timeline](timeline.md) -- dates from the rubric's own header and from
-   `git log`.
+7. [Timeline](timeline.md) -- dates from the rubric's own header, the git
+   history of the original repo, and this repo's own commit.
 
 Every fact traces to a file in this repo (mostly the rubric's §A, §F and §H)
-or to `git log`. Paths the rubric cites under `Working/` and `Deliverables/`
-live in Alex's private workspace and are not in this repo.
+or to git history, as the timeline page lists. Paths the rubric cites under
+`Working/` and `Deliverables/` live in Alex's private workspace and are not
+in this repo.
